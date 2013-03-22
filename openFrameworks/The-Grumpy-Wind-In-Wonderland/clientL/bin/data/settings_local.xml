@@ -1,0 +1,14 @@
+<settings>
+	<port>12344</port>
+	<movie>bs1.mov</movie>
+	<dimensions>
+		<width>384</width>
+		<height>108</height>
+        <movieWidth>384</movieWidth>
+        <movieHeight>108</movieHeight>
+        <movieX>0</movieX>
+        <movieY>0</movieY>
+	</dimensions>
+	<go_fullscreen>false</go_fullscreen>
+    <loop>true</loop>
+</settings>

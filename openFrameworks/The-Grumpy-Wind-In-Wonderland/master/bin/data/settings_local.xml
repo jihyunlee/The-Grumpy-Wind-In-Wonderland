@@ -1,0 +1,22 @@
+<settings>
+	<client1>
+		<address>127.0.0.1</address>
+		<port>12344</port>
+	</client1>
+	<client2>
+		<address>127.0.0.1</address>
+		<port>12346</port>
+	</client2>
+	<movie>bs2.mov</movie>
+	<howoften>60</howoften>
+	<dimensions>
+		<width>384</width>
+		<height>108</height>
+        <movieWidth>384</movieWidth>
+        <movieHeight>108</movieHeight>
+        <movieX>0</movieX>
+        <movieY>0</movieY>
+	</dimensions>
+	<go_fullscreen>false</go_fullscreen>
+    <loop>true</loop>
+</settings>
