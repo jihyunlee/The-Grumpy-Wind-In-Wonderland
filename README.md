@@ -11,4 +11,4 @@ It was presented at <a href="http://itp.nyu.edu/bigscreens/" target="_blank">Big
 
 For more information, please visit <a href="http://itp.nyu.edu/~jhl589/myblog/grumpy-wind" target="_blank"><em>The Grumpy Wind in Wonderland</em> page</a>.
 
-* openFrameworks, Processing, Asterisk, OSC (Open Sound Control), After Effects, Final Cut Pro, Photoshop
+\* openFrameworks, Processing, Asterisk, OSC (Open Sound Control), After Effects, Final Cut Pro, Photoshop
