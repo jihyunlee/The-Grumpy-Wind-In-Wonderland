@@ -3,7 +3,7 @@ The Grumpy Wind in Wonderland
 
 The Grumpy Wind in Wonderland is an interactive mobile game on large-scale screens, collaborated with Lisa Park.
 
-<em>The Grumpy Wind in Wonderland</em> invites audience with reading a story:
+The Grumpy Wind in Wonderland invites audience with reading a story:
 "Once upon a time, there lived a grumpy wind in Wonderland who was moody and temperamental. He viciously enjoyed blowing off people clothes..."
 Audience can see people walking in the wonderland on the big screens and blow off the people's clothes with calling a designated phone number and blowing on the phone. The stronger the wind is, the faster the people's clothes gets taken off.
 
