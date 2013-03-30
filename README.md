@@ -1,7 +1,7 @@
 The Grumpy Wind in Wonderland
 ==========
 
-This project is an interactive mobile game on large-scale screens, collaborated with Lisa Park.
+The Grumpy Wind in Wonderland is an interactive mobile game on large-scale screens, collaborated with Lisa Park.
 
 <em>The Grumpy Wind in Wonderland</em> invites audience with reading a story:
 "Once upon a time, there lived a grumpy wind in Wonderland who was moody and temperamental. He viciously enjoyed blowing off people clothes..."
